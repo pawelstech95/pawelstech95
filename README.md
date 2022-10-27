@@ -1,15 +1,11 @@
 - 👋 Hi, I’m Paweł Stech,
 
-- 👀 For over a year I interest in programming and I learn Javascript
-focusing especially on front-end development with React as the
-main framework/library. I gain my knowledge from online courses
-which started to be my daily routine. I try not to be the next junior
-after Bootcamp who heard about programming as the best source
-of income. My interest in computer science is much bigger, but I’ve
-never had a good mentor who could show me the right direction of
-learning. Nowadays, programming started to be my passion and I
-would like to start my programmer career as a Junior React
-Developer.
+- 👀 I started my professional career working on a new and advanced project. The application that I was creating allows managing the entire shipbuilding industry, from "entry" to "exit" of a ship from a shipyard. The application allows work on both sides - shipyard employees and their contractors. The complexity of the application, very advanced business logic, and work under the supervision of senior developers required me to work at the highest level. In the project, I used the latest technologies. 
+(React / ES6 / React Hooks / Custom Hooks / ReactQuery Emotion / Cypress)
+
+I also conducted research for a new project and created a demo of the application according to the client's requirements. GIS maps, an application whose task is rendering point clouds, creating 3d / 2d models from objects, handling LIDAR laser files, vector, and raster layouts, drawing and modeling objects, importing, and exporting files, etc.  (Leaflet / React Map GL / CessiumJS / Potree / Three.js )
+
+Outside of working hours, I spend a lot of time consolidating my programming skills and learning about new technologies.
 
 - 📫 If you want to contact me, check my LinkedIn profile -> www.linkedin.com/in/paweł-stech
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paweł Stech,
+- 👋 Hi, I’m Paweł,
 
 - 👀 I started my professional career working on a new and advanced project. The application that I was creating allows managing the entire shipbuilding industry, from "entry" to "exit" of a ship from a shipyard. The application allows work on both sides - shipyard employees and their contractors. The complexity of the application, very advanced business logic, and work under the supervision of senior developers required me to work at the highest level. In the project, I used the latest technologies. 
 (React / ES6 / React Hooks / Custom Hooks / ReactQuery Emotion / Cypress)
